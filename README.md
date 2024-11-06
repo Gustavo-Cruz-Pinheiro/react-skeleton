@@ -1,4 +1,8 @@
-# Guia para baixar e executar este projeto React.js
+# React Skeleton
+
+O objetivo desse projeto é ter os essênciais do react, sem aquela "poluição" quando iniciamos um projeto. 
+
+## Guia para baixar e executar este projeto React.js
 
 Este guia fornece instruções passo a passo sobre como baixar e executar um projeto React.js em seu computador local.
 
@@ -13,7 +17,7 @@ Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu 
    Abra o terminal (ou o Git Bash no Windows) e execute o seguinte comando:
 
    ```bash
-   git clone https://github.com/Jemisson/skeleton-react.js.git
+   git clone https://github.com/Gustavo-Cruz-Pinheiro/react-skeleton.git
    ```
 
 2. **Navegue até o diretório do projeto:**
@@ -21,7 +25,7 @@ Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu 
    Use o comando `cd` para entrar no diretório do projeto que você acabou de clonar:
 
    ```bash
-   cd skeleton-react
+   cd react-skeleton
    ```
 
 3. **Instale as dependências:**
